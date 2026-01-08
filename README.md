@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasindu Sri Induwara Madhushan</h1>
-<h3 align="center">IT enthusiast</h3>
+<h3 align="center">An IT enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasindusriinduwara&label=Profile%20views&color=0e75b6&style=flat" alt="pasindusriinduwara" /> </p>
 
